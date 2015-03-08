@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: da5125468ef1c2044a6fa7c68d3ce266
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Galaga
+    100002: //RootNode
+    100004: Galaga_bezel
+    100006: Galaga_buttons
+    100008: Galaga_coin_door
+    100010: Galaga_coin_frame
+    100012: Galaga_coin_light
+    100014: Galaga_coin_light_2
+    100016: Galaga_coin_lock
+    100018: Galaga_CP
+    100020: Galaga_CRT
+    100022: Galaga_front
+    100024: Galaga_joystick
+    100026: Galaga_joystick_B
+    100028: Galaga_marquee
+    100030: Galaga_molding
+    100032: Galaga_sides
+    100034: Galaga_trim
+    400000: Galaga
+    400002: //RootNode
+    400004: Galaga_bezel
+    400006: Galaga_buttons
+    400008: Galaga_coin_door
+    400010: Galaga_coin_frame
+    400012: Galaga_coin_light
+    400014: Galaga_coin_light_2
+    400016: Galaga_coin_lock
+    400018: Galaga_CP
+    400020: Galaga_CRT
+    400022: Galaga_front
+    400024: Galaga_joystick
+    400026: Galaga_joystick_B
+    400028: Galaga_marquee
+    400030: Galaga_molding
+    400032: Galaga_sides
+    400034: Galaga_trim
+    2300000: Galaga
+    2300002: Galaga_bezel
+    2300004: Galaga_buttons
+    2300006: Galaga_coin_door
+    2300008: Galaga_coin_frame
+    2300010: Galaga_coin_light
+    2300012: Galaga_coin_light_2
+    2300014: Galaga_coin_lock
+    2300016: Galaga_CP
+    2300018: Galaga_CRT
+    2300020: Galaga_front
+    2300022: Galaga_joystick
+    2300024: Galaga_joystick_B
+    2300026: Galaga_marquee
+    2300028: Galaga_molding
+    2300030: Galaga_sides
+    2300032: Galaga_trim
+    3300000: Galaga
+    3300002: Galaga_bezel
+    3300004: Galaga_buttons
+    3300006: Galaga_coin_door
+    3300008: Galaga_coin_frame
+    3300010: Galaga_coin_light
+    3300012: Galaga_coin_light_2
+    3300014: Galaga_coin_lock
+    3300016: Galaga_CP
+    3300018: Galaga_CRT
+    3300020: Galaga_front
+    3300022: Galaga_joystick
+    3300024: Galaga_joystick_B
+    3300026: Galaga_marquee
+    3300028: Galaga_molding
+    3300030: Galaga_sides
+    3300032: Galaga_trim
+    4300000: Galaga_front
+    4300002: Galaga_marquee
+    4300004: Galaga_bezel
+    4300006: Galaga_CP
+    4300008: Galaga_sides
+    4300010: Galaga
+    4300012: Galaga_molding
+    4300014: Galaga_buttons
+    4300016: Galaga_coin_door
+    4300018: Galaga_coin_frame
+    4300020: Galaga_coin_light
+    4300022: Galaga_coin_light_2
+    4300024: Galaga_coin_lock
+    4300026: Galaga_joystick
+    4300028: Galaga_joystick_B
+    4300030: Galaga_CRT
+    4300032: Galaga_trim
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 3
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
