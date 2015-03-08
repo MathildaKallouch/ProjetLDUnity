@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: f1eef317076be8440bf79caa31e916f0
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: aile001
+    100002: aile002
+    100004: Bec001
+    100006: Bec002
+    100008: Bone001Corps
+    100010: Bone001Corps01JambeGA
+    100012: Bone001Corps01JambeGA01
+    100014: Bone001Corps03JambeDR
+    100016: Bone001Corps03JambeG01
+    100018: Bone001Corps05
+    100020: BoneAileD
+    100022: BoneAileD01
+    100024: BoneAIleG
+    100026: BoneAIleG01
+    100028: BoneBec
+    100030: BoneBec01
+    100032: Corps
+    100034: Cr__te1
+    100036: Cr__te2
+    100038: Cr__te3
+    100040: Cr__te4
+    100042: oeil001
+    100044: oeil002
+    100046: oeil003
+    100048: oeil004
+    100050: Papatte1
+    100052: Papatte202
+    100054: //RootNode
+    400000: aile001
+    400002: aile002
+    400004: Bec001
+    400006: Bec002
+    400008: Bone001Corps
+    400010: Bone001Corps01JambeGA
+    400012: Bone001Corps01JambeGA01
+    400014: Bone001Corps03JambeDR
+    400016: Bone001Corps03JambeG01
+    400018: Bone001Corps05
+    400020: BoneAileD
+    400022: BoneAileD01
+    400024: BoneAIleG
+    400026: BoneAIleG01
+    400028: BoneBec
+    400030: BoneBec01
+    400032: Corps
+    400034: Cr__te1
+    400036: Cr__te2
+    400038: Cr__te3
+    400040: Cr__te4
+    400042: oeil001
+    400044: oeil002
+    400046: oeil003
+    400048: oeil004
+    400050: Papatte1
+    400052: Papatte202
+    400054: //RootNode
+    4300000: Corps
+    4300002: aile001
+    4300004: Cr__te4
+    4300006: Cr__te3
+    4300008: Cr__te1
+    4300010: Cr__te2
+    4300012: Bec001
+    4300014: Bec002
+    4300016: aile002
+    4300018: oeil002
+    4300020: oeil004
+    4300022: oeil001
+    4300024: oeil003
+    4300026: Papatte202
+    4300028: Papatte1
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: aile001
+    13700002: aile002
+    13700004: Bec001
+    13700006: Bec002
+    13700008: Corps
+    13700010: Cr__te1
+    13700012: Cr__te2
+    13700014: Cr__te3
+    13700016: Cr__te4
+    13700018: oeil001
+    13700020: oeil002
+    13700022: oeil003
+    13700024: oeil004
+    13700026: Papatte1
+    13700028: Papatte202
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone001Corps
+        weight: 1
+      - path: Bone001Corps/Bone001Corps01JambeGA
+        weight: 1
+      - path: Bone001Corps/Bone001Corps01JambeGA/Bone001Corps01JambeGA01
+        weight: 1
+      - path: Bone001Corps/Bone001Corps03JambeDR
+        weight: 1
+      - path: Bone001Corps/Bone001Corps03JambeDR/Bone001Corps03JambeG01
+        weight: 1
+      - path: Bone001Corps/Bone001Corps05
+        weight: 1
+      - path: Bone001Corps/BoneAileD
+        weight: 1
+      - path: Bone001Corps/BoneAileD/BoneAileD01
+        weight: 1
+      - path: Bone001Corps/BoneAIleG
+        weight: 1
+      - path: Bone001Corps/BoneAIleG/BoneAIleG01
+        weight: 1
+      - path: Bone001Corps/BoneBec
+        weight: 1
+      - path: Bone001Corps/BoneBec01
+        weight: 1
+      - path: Corps
+        weight: 1
+      - path: Corps/aile001
+        weight: 1
+      - path: Corps/aile002
+        weight: 1
+      - path: Corps/Bec001
+        weight: 1
+      - path: Corps/Bec002
+        weight: 1
+      - path: Corps/Cr__te1
+        weight: 1
+      - path: Corps/Cr__te2
+        weight: 1
+      - path: Corps/Cr__te3
+        weight: 1
+      - path: Corps/Cr__te4
+        weight: 1
+      - path: Corps/oeil001
+        weight: 1
+      - path: Corps/oeil001/oeil003
+        weight: 1
+      - path: Corps/oeil002
+        weight: 1
+      - path: Corps/oeil002/oeil004
+        weight: 1
+      - path: Corps/Papatte1
+        weight: 1
+      - path: Corps/Papatte202
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Bone001Corps01JambeGA01
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
