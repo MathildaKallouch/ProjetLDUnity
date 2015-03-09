@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: fe1372016e01d634c929414fc5b0f32f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: aile001
+    100002: aile002
+    100004: Bec001
+    100006: Bec002
+    100008: Bone001C
+    100010: Bone002
+    100012: Bone003PD
+    100014: Bone004
+    100016: Bone005PG
+    100018: Bone006
+    100020: Bone007BEC
+    100022: Bone008
+    100024: Corps
+    100026: Cr__te1
+    100028: Cr__te2
+    100030: Cr__te3
+    100032: Cr__te4
+    100034: oeil001
+    100036: oeil002
+    100038: oeil003
+    100040: oeil004
+    100042: //RootNode
+    400000: aile001
+    400002: aile002
+    400004: Bec001
+    400006: Bec002
+    400008: Bone001C
+    400010: Bone002
+    400012: Bone003PD
+    400014: Bone004
+    400016: Bone005PG
+    400018: Bone006
+    400020: Bone007BEC
+    400022: Bone008
+    400024: Corps
+    400026: Cr__te1
+    400028: Cr__te2
+    400030: Cr__te3
+    400032: Cr__te4
+    400034: oeil001
+    400036: oeil002
+    400038: oeil003
+    400040: oeil004
+    400042: //RootNode
+    4300000: Corps
+    4300002: aile001
+    4300004: Cr__te4
+    4300006: Cr__te3
+    4300008: Cr__te1
+    4300010: Cr__te2
+    4300012: Bec001
+    4300014: aile002
+    4300016: oeil002
+    4300018: oeil004
+    4300020: oeil001
+    4300022: oeil003
+    4300024: Bec002
+    7400000: AnimPoule
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: aile001
+    13700002: aile002
+    13700004: Bec001
+    13700006: Bec002
+    13700008: Corps
+    13700010: Cr__te1
+    13700012: Cr__te2
+    13700014: Cr__te3
+    13700016: Cr__te4
+    13700018: oeil001
+    13700020: oeil002
+    13700022: oeil003
+    13700024: oeil004
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: AnimPoule
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone001C
+        weight: 1
+      - path: Bone001C/Bone002
+        weight: 1
+      - path: Bone003PD
+        weight: 1
+      - path: Bone003PD/Bone004
+        weight: 1
+      - path: Bone005PG
+        weight: 1
+      - path: Bone005PG/Bone006
+        weight: 1
+      - path: Bone007BEC
+        weight: 1
+      - path: Bone007BEC/Bone008
+        weight: 1
+      - path: Corps
+        weight: 1
+      - path: Corps/aile001
+        weight: 1
+      - path: Corps/aile002
+        weight: 1
+      - path: Corps/Bec001
+        weight: 1
+      - path: Corps/Bec002
+        weight: 1
+      - path: Corps/Cr__te1
+        weight: 1
+      - path: Corps/Cr__te2
+        weight: 1
+      - path: Corps/Cr__te3
+        weight: 1
+      - path: Corps/Cr__te4
+        weight: 1
+      - path: Corps/oeil001
+        weight: 1
+      - path: Corps/oeil001/oeil003
+        weight: 1
+      - path: Corps/oeil002
+        weight: 1
+      - path: Corps/oeil002/oeil004
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
